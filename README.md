@@ -1,3 +1,3 @@
-# SDSS-RD14-Classification
+# SDSS-RD14 Classification in R
 
-the Sloan Digital Sky Survey RD14 [1] by exploring popular classication methods including decision trees, ensemble methods, clustering, model-based clustering, mixture discriminant analysis, and neural networks.
+Exploration and comparison of unsupervised/supervised data science techniques used for the classification of the Sloan Digital Sky Survey RD14 dataset, including decision trees, ensemble methods, clustering, model-based clustering, mixture discriminant analysis, and neural networks.
